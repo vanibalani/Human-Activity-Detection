@@ -1,5 +1,4 @@
 # Human-Activity-Detection
-# Human-Activity-Detection
 
 #### About The Project
 Human activity detection or recognition is a process of interpreting human motion through computer vision. Human motion can be categorized into various activies which are recorded through electromagnetic and angular velocity sensors. The data collected can be translated into actions or behaviours performed by humans.
